@@ -1,0 +1,27 @@
+[
+  {
+    "code": "C",
+    "name": "Business",
+    "status": "ACT"
+  },
+  {
+    "code": "Y",
+    "name": "Economy",
+    "status": "ACT"
+  },
+  {
+    "code": "F",
+    "name": "First Class",
+    "status": "INA"
+  },
+  {
+    "code": "W",
+    "name": "Premium Economy",
+    "status": "INA"
+  },
+  {
+    "code": "R",
+    "name": "Suit",
+    "status": "INA"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "A320",
+    "name": "A320",
+    "status": "ACT"
+  },
+  {
+    "id": "A321",
+    "name": "A321",
+    "status": "ACT"
+  },
+  {
+    "id": "A380",
+    "name": "A380",
+    "status": "ACT"
+  },
+  {
+    "id": "A330",
+    "name": "A330",
+    "status": "ACT"
+  },
+  {
+    "id": "A321-neo",
+    "name": "A321-neo",
+    "status": "ACT"
+  },
+  {
+    "id": "A340",
+    "name": "A340",
+    "status": "ACT"
+  },
+  {
+    "id": "A341",
+    "name": "A341",
+    "status": "ACT"
+  },
+  {
+    "id": "A310",
+    "name": "A310",
+    "status": "ACT"
+  },
+  {
+    "id": "BUS",
+    "name": "BUS",
+    "status": "ACT"
+  },
+  {
+    "id": "A319",
+    "name": "A319",
+    "status": "ACT"
+  }
+]
